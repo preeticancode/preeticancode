@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 📫 How to Reach Me
 - **Email:** preeti.email@example.com
-- **LinkedIn:** [linkedin.com/in/preeti](https://www.linkedin.com/in/preeti) 
-- **Twitter:** [@preeticancode](https://twitter.com/preeticancode)
+- **LinkedIn:** [linkedin.com/in/preeti](https://www.linkedin.com/in/preeti-s-89427a134) 
+
 
 ## 😄 Pronouns
 - She/Her
