@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - Community-driven coding initiatives or hackathons.
 
 ## 📫 How to Reach Me
-- **Email:** preeti.email@example.com
+- **Email:** preetimicrobioireland@gmail.com
 - **LinkedIn:** [linkedin.com/in/preeti](https://www.linkedin.com/in/preeti-s-89427a134) 
 
 
